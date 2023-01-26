@@ -2,7 +2,9 @@
 
 # ❄️LegalPay Assignment
 
-📌depolyed link  [here](https://legalpay.vercel.app/).
+# 📌depolyed link  [here](https://legalpay.vercel.app/).
+
+📌if you face any issue in register you can use this email - any@gmail.com and Password - 1234
 
 
 # 🔽This Project have two Part [FRONTEND](https://github.com/abhishekrawe/legalpay) and [BACKEND](https://github.com/abhishekrawe/legalPay-Backend)
