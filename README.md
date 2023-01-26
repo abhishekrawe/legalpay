@@ -13,9 +13,8 @@
 
 ## 🃏Glimse of Project
 
-
-### `web view without api`  
-
+### `web view `  
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/65603830/214957369-03780f7f-e98f-4f76-abcf-590b2c0d2d19.gif)
 
 # 🐸Problem Statement and my approach (अप्रोच्‌)🐸
 
