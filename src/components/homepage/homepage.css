@@ -1,0 +1,32 @@
+.homepage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 80vw;
+    height: 40vw;
+    border-radius: 20px;
+    box-shadow: 0 0 15px 5px grey;
+    background: white ;
+    position: relative;
+}
+
+.homepage .button {
+  background: rgb(0, 223, 154);
+  border: 1px solid rgb(0, 223, 154);
+  color: #fff ;
+  font-size: 1.25rem;
+  padding: 0.5rem;
+  margin: 0.5rem 0;
+  border-radius: 8px;
+  outline: none;
+  cursor: pointer;
+}
+.rounded {
+  background-color: rgb(0, 223, 154);
+}
+
+.col-md-3 {
+  background-color: #acf3e2 !important;
+}
+
