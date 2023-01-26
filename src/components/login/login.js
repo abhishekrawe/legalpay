@@ -23,7 +23,7 @@ const Login = ({setLoginUser}) => {
   }
 
   const login = () => {
-    axios.post("http://localhost:9002/login" , user)
+    axios.post("https://legalpay-backend.onrender.com/login" , user)
     .then(res => {
       alert(res.data.message)
       setLoginUser(res.data.user)
@@ -37,7 +37,7 @@ const Login = ({setLoginUser}) => {
       {console.log(user)}
         <h1> Welcome to Banking system </h1>
         <input type="text" name = "email"  value={user.email} onChange={handleChange} placeholder="Enter your Email"></input>
-        <input type="password" name = "password"  value={user.password} onChange={handleChange} placeholder="Enter your Email"></input>
+        <input type="password" name = "password"  value={user.password} onChange={handleChange} placeholder="Enter Password"></input>
         <div className="button" onClick={login}>
             Login
         </div>
