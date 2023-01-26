@@ -4,6 +4,13 @@
 
 📌depolyed link  [here](https://legalpay.vercel.app/).
 
+
+# 🔽This Project have two Part [FRONTEND](https://github.com/abhishekrawe/legalpay) and [BACKEND](https://github.com/abhishekrawe/legalPay-Backend)
+
+- For Running this repository on local 
+- Frontend - cd to legalpay > npm install > npm start
+- Backend  - cd to legalPay-Backend > npm install > node index.js
+
 ## 🃏Glimse of Project
 
 
