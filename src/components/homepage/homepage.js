@@ -23,7 +23,7 @@ const Homepage = ({setLoginUser}) => {
 
 
   return (
-    <div  classNameName='homepage'>
+    <div  className='homepage'>
         <h1> Welcome to Banking system </h1>
         <div className="d-flex justify-content-center">
             <div className="col-md-3 w-50 bg-info ms-5 p-4 rounded">
@@ -60,7 +60,7 @@ const Homepage = ({setLoginUser}) => {
                 <button onClick={(e) => handleWithdraw(withdrawInput)} className="btn btn-dark" id="withdraw-btn">Withdraw</button>
             </div>
         </div>
-        <div classNameName='button' onClick={() => setLoginUser({})}>EXIT</div>
+        <div className='button' onClick={() => setLoginUser({})}>EXIT</div>
     </div>
   )
 }
