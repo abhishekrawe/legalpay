@@ -19,7 +19,7 @@
 
 # 🐸Problem Statement and my approach (अप्रोच्‌)🐸
 
-1. Create a bank account by supplying a user id and password. Use
+1️⃣. Create a bank account by supplying a user id and password. Use
 static id or pass. (If credentials are store in database is adding
 extra points).
 
@@ -35,10 +35,10 @@ extra points).
 
 
 
-2. Login using their id and password.
+2️⃣. Login using their id and password.
 - User Can login with email id and Password
 
-3. Now if login was successful the user will be able to do the following:
+3️⃣. Now if login was successful the user will be able to do the following:
 1) Withdraw money.
 2) Deposit money.
 4) Quit the program.
