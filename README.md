@@ -4,8 +4,6 @@
 
 # 📌depolyed link  [here](https://legalpay.vercel.app/).
 
-📌if you face any issue in register you can use this email - any@gmail.com and Password - 1234
-
 
 # 🔽This Project have two Part [FRONTEND](https://github.com/abhishekrawe/legalpay) and [BACKEND](https://github.com/abhishekrawe/legalPay-Backend)
 
@@ -49,3 +47,6 @@ extra points).
 - You can see here 👇
 ![image](https://user-images.githubusercontent.com/65603830/214945491-44c2e90d-ae83-43b4-a772-9558000f0389.png)
 
+📌if you face any issue in register you can use this email - any@gmail.com and Password - 1234
+ - there are some issue on Alert message after deployment on register page it will not show you succesfully created account 
+   you can simple login with that register email passowrd it works well .. i will fixed this issue .
