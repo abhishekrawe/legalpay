@@ -14,7 +14,7 @@
 ## 🃏Glimse of Project
 
 ### `web view `  
-![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/65603830/214957369-03780f7f-e98f-4f76-abcf-590b2c0d2d19.gif)
+https://user-images.githubusercontent.com/65603830/215290622-5a4441bf-3a46-4765-a40c-31d7b0b50d11.mp4
 
 # 🐸Problem Statement and my approach (अप्रोच्‌)🐸
 
