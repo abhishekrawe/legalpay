@@ -46,14 +46,21 @@ extra points).
 - where user can withdraw Money , Deposit there money and check there remaing Ballence also and Exit Button too return back to login Page.
 - You can see here 👇
 ![image](https://user-images.githubusercontent.com/65603830/214945491-44c2e90d-ae83-43b4-a772-9558000f0389.png)
-
+ 
+ `message after login successful` 
 
 ![Screenshot 2023-01-29 213152](https://user-images.githubusercontent.com/65603830/215342188-ecc0ae5d-f71e-4fbb-9e7a-dba10b85db51.png)
 
+ `message user if already registered`
+ 
 ![Screenshot 2023-01-29 212924](https://user-images.githubusercontent.com/65603830/215342197-126f0517-e2cb-4dbc-a437-a53dd860b7b1.png)
 
+ `message after wrong email or password`
+ 
 ![Screenshot 2023-01-29 212843](https://user-images.githubusercontent.com/65603830/215342205-c04eeed8-50ed-432e-8190-19a89abc6ee0.png)
 
+ `message after password didn't message`
+ 
 ![Screenshot 2023-01-29 212753](https://user-images.githubusercontent.com/65603830/215342214-b58afee9-1158-42b3-8050-97c8f0f22880.png)
 
 
