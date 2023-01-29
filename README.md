@@ -1,70 +1,52 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# ❄️LegalPay Assignment
 
-In the project directory, you can run:
+# 📌depolyed link  [here](https://legalpay.vercel.app/).
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# 🔽This Project have two Part [FRONTEND](https://github.com/abhishekrawe/legalpay) and [BACKEND](https://github.com/abhishekrawe/legalPay-Backend)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- For Running this repository on local 
+- Frontend - cd to legalpay > npm install > npm start
+- Backend  - cd to legalPay-Backend > npm install > node index.js
 
-### `npm test`
+## 🃏Glimse of Project
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### `web view `  
+https://user-images.githubusercontent.com/65603830/215290622-5a4441bf-3a46-4765-a40c-31d7b0b50d11.mp4
 
-### `npm run build`
+# 🐸Problem Statement and my approach (अप्रोच्‌)🐸
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1️⃣. Create a bank account by supplying a user id and password. Use
+static id or pass. (If credentials are store in database is adding
+extra points).
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- User Can Create Account with name , email , password and reEnter Password 
+![image](https://user-images.githubusercontent.com/65603830/214945969-ad156fc5-066a-4c39-80c0-423d47f013c4.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- User Can login with register email and Password
+![image](https://user-images.githubusercontent.com/65603830/214945892-fd707368-4238-4981-9b63-785eddb2f2dd.png)
 
-### `npm run eject`
+- Yes all the Credential added in MongoDb , when you create a new user with name email and password 
+  in the mongoDb database all ur infomration will be saved , like this - you can see here 👇
+  ![image](https://user-images.githubusercontent.com/65603830/214944638-0081e3fa-2a8b-427a-af85-8e4242d2c1a9.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+2️⃣. Login using their id and password.
+- User Can login with email id and Password
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+3️⃣. Now if login was successful the user will be able to do the following:
+1) Withdraw money.
+2) Deposit money.
+4) Quit the program.
 
-## Learn More
+- After succesfully Login with same email and password that you had register with , a Home page will show 
+- where user can withdraw Money , Deposit there money and check there remaing Ballence also and Exit Button too return back to login Page.
+- You can see here 👇
+![image](https://user-images.githubusercontent.com/65603830/214945491-44c2e90d-ae83-43b4-a772-9558000f0389.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+📌if you face any issue in register you can use this email - any@gmail.com and Password - 1234
+ - there are some issue on Alert message after deployment on register page it will not show you succesfully created account 
+   you can simple login with that register email passowrd it works well .. i will fixed this issue .
