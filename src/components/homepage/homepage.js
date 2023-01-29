@@ -48,19 +48,19 @@ const Homepage = ({setLoginUser}) => {
     
         <div className="mt-5 d-flex justify-content-center">
             <div className="col-md-5 w-75 container rounded shadow p-4 me-5">
-                <h3>Deposit</h3>
+                <h3>Deposit Money</h3>
                 <input type="number" value={depositInput} onChange = {(e) => setDepositInput(e.target.value)} className="form-control" id="deposit-input" placeholder="Deposit"/>
                 <br/>
                 <button onClick={(e) => handleDeposit(depositInput)} className="btn btn-dark" id="deposit-btn">Deposit</button>
             </div>
             <div className="col-md-5 w-75 container rounded shadow p-4 ms-5">
-                <h3>Withdraw</h3>
+                <h3>Withdraw Money</h3>
                 <input type="number" value={withdrawInput} onChange = {(e) => setWithdrawInput(e.target.value)} className="form-control" id="withdraw-input" placeholder="Withdraw"/>
                 <br/>
                 <button onClick={(e) => handleWithdraw(withdrawInput)} className="btn btn-dark" id="withdraw-btn">Withdraw</button>
             </div>
         </div>
-        <div className='button' onClick={() => setLoginUser({})}>EXIT</div>
+        <div className='button' onClick={() => setLoginUser({})}>Quit</div>
     </div>
   )
 }
